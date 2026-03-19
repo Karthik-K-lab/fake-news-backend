@@ -1,6 +1,5 @@
 fastapi
 uvicorn[standard]
-transformers==4.34.0
-torch           # for CPU this will install CPU torch
-huggingface-hub
-python-multipart
+transformers
+huggingface_hub
+pydantic
