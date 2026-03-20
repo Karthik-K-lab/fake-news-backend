@@ -6,6 +6,6 @@ You can check out the frontend deployment on https://github.com/Karthik-K-lab/fa
 
 The model is stored in huggingface and then the backend is run online on Render, and then the frontend is hosted on Vercel.
 
-The final hosted model is online, and the link is https://fake-news-frontend-murex.vercel.app ,thou it is running on free services, there might be delays or limit to my usage.
+The final hosted model is online, and the link is https://fake-news-frontend-murex.vercel.app ,thou it is running on free services, there might be delays or limit to my usage. Also while giving the input try it in a more of a news report style or more of a journal style to get the results as real.
 
 But until then everyone can try it out, hope you enjoy it.
